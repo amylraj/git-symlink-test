@@ -1,1 +1,1 @@
-/Users/aswinmylraj/Downloads/downloadAll.groovy
+../../../../Downloads/downloadAll.groovy
